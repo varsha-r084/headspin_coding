@@ -11,7 +11,7 @@ Setting the path variable-
 
 -----------------------------------------------------------------------------------------
 Running the code-
-Download or clone the headspin repository from 
+Download or clone the headspin repository from https://github.com/varsha-r084/headspin_coding
 1.Open a new cmd
 2.Go to the directory where the source codes are saved using cd command
 3.Execute the code as python filename.py
