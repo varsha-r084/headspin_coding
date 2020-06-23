@@ -7,7 +7,7 @@ Go to https://www.python.org/ and download the latest version of python with the
 Setting the path variable-
 1.Go to start -> cmd
 2.change directory where the project is saved using cd foldername
-2.set path as : path %path%;C:\Python27
+3.set path as : path %path%;C:\Python27
 
 -----------------------------------------------------------------------------------------
 Running the code-
